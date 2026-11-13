@@ -877,7 +877,7 @@ html:not(.js) .tabset-tabs{display:none}html:not(.js) .tp{grid-area:auto}
 .xnote{color:var(--soft);font-size:.88rem}
 .xnote .chip-link{font-size:.82rem;padding:3px 10px}
 /* the record, under the profile */
-.record{display:grid;grid-template-columns:repeat(5,1fr);margin-top:clamp(36px,5vw,64px);border-top:1px solid var(--ink)}
+.record{display:grid;grid-template-columns:repeat(4,1fr);margin-top:clamp(36px,5vw,64px);border-top:1px solid var(--ink)}
 .record>div{padding:18px 20px 0 0}
 .record>div+div{padding-left:20px;border-left:1px solid var(--line)}
 .record dt{font-family:var(--serif);font-size:clamp(2.2rem,3.4vw,3.1rem);line-height:1;letter-spacing:-.02em;color:var(--wine)}
