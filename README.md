@@ -13,6 +13,7 @@ It uses all of her experience and gives more weight to its own area. Psychology 
 - **The product page, taken apart:** six things a product page can do to a decision, each with the research behind it, what Paula would test, and where she thinks the line is.
 - **Five moments in a client’s decision:** the psychology, the retail metrics, and the method for each.
 - **How I listen to a client:** one shop-floor exchange analyzed in five steps.
+- **From listening to practice:** Well Suited, an AI app where new associates rehearse difficult client moments, with a sample session and a link to the live app.
 - **Two studies I would like to run for a brand:** proposals, with predictions, method, and limits.
 - **Psychology & the client:** seven ideas from psychology and what each means in a client conversation.
 - **My approach:** five stages, from listening to keeping the relationship.
